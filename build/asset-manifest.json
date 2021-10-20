@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a19a634c.chunk.css",
+    "main.js": "/static/js/main.c619f42e.chunk.js",
+    "main.js.map": "/static/js/main.c619f42e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0becfdfe.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0becfdfe.js.map",
+    "static/js/2.32c703bb.chunk.js": "/static/js/2.32c703bb.chunk.js",
+    "static/js/2.32c703bb.chunk.js.map": "/static/js/2.32c703bb.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a19a634c.chunk.css.map": "/static/css/main.a19a634c.chunk.css.map",
+    "static/js/2.32c703bb.chunk.js.LICENSE.txt": "/static/js/2.32c703bb.chunk.js.LICENSE.txt",
+    "static/media/app_styles.css": "/static/media/pokemon_black_and_white_version_font_by_mauriziovit_d4t992c.50dc787d.ttf",
+    "static/media/bulbasaur.e3564c36.png": "/static/media/bulbasaur.e3564c36.png",
+    "static/media/eevee.f739c039.png": "/static/media/eevee.f739c039.png",
+    "static/media/jigglypuff.c1dabe67.png": "/static/media/jigglypuff.c1dabe67.png",
+    "static/media/jirachi.4b335274.png": "/static/media/jirachi.4b335274.png",
+    "static/media/mawile.eb1dd3b6.png": "/static/media/mawile.eb1dd3b6.png",
+    "static/media/pikachu.6572dbc3.png": "/static/media/pikachu.6572dbc3.png",
+    "static/media/piplup.fc34f1e8.png": "/static/media/piplup.fc34f1e8.png",
+    "static/media/ralts.cf2d3c18.png": "/static/media/ralts.cf2d3c18.png",
+    "static/media/riolu.a7e78077.png": "/static/media/riolu.a7e78077.png",
+    "static/media/sableye.27b071db.png": "/static/media/sableye.27b071db.png",
+    "static/media/torchic.de2e6e07.png": "/static/media/torchic.de2e6e07.png",
+    "static/media/voltorb.89279068.png": "/static/media/voltorb.89279068.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0becfdfe.js",
+    "static/js/2.32c703bb.chunk.js",
+    "static/css/main.a19a634c.chunk.css",
+    "static/js/main.c619f42e.chunk.js"
+  ]
+}

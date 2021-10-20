@@ -1,0 +1,169 @@
+@font-face {
+    font-family: standardText;
+    src: url(./components/assets/pokemon-ds-font.ttf);
+}
+
+@font-face {
+    font-family: pokemonLogo;
+    src: url(./components/assets/PokemonSolidNormal-xyWR.ttf);
+}
+
+/*font by MaurizioVit  - https://www.deviantart.com/mauriziovit/art/Pokemon-Black-and-White-Version-Font-291005220*/
+
+@font-face {
+    font-family: pokemonSubLogo;
+    src: url(./components/assets/pokemon_black_and_white_version_font_by_mauriziovit_d4t992c.ttf);
+}
+
+body {
+    background-color: #587c34;
+}
+
+h1 {
+    font-family: pokemonSubLogo;
+    text-align: center;
+    -webkit-text-stroke-width: 4px;
+    -webkit-text-stroke-color: black;
+    color: white;
+    
+}
+
+h2 {
+    font-family: standardText;
+    text-align: center;
+}
+
+.pokemon-title {
+    font-family: pokemonLogo;
+    display: inline;
+    -webkit-text-stroke-width: 4px;
+    -webkit-text-stroke-color: #18245c;
+    color: #ffcc04;
+    letter-spacing: 5px;
+    font-size: 70px;
+}
+
+h3 {
+    font-family: pokemonSubLogo;
+    text-align: right;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+    color: white;
+    padding-right: 15px;
+}
+
+p {
+    font-family: standardText;
+    text-align: right;
+}
+
+h4 {
+    font-family: standardText;
+    text-align: center;
+}
+
+img {
+    display: block;
+    background-color: #587c34;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    
+}
+
+.scoreboard {
+    display: block;
+    border-style: solid;
+    border-width: 6px;
+    border-bottom-width: 30px;
+    border-color: #211d1d;
+    border-radius: 10px;
+    background-color: #403c3c;
+    margin: auto;
+    width: 95%;
+    height: 150px;
+
+
+
+}
+
+.card {
+    background-color:#403c3c;
+    height: 280px;
+    width: 200px;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 6px;
+    border-bottom-width: 30px;
+    margin: 20px;
+    border-color: #211d1d;
+
+}
+
+.poke-name {
+    color: white;
+    font-size: 20px;
+    
+
+}
+
+.card-display {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 100%;
+    margin: auto;
+
+}
+
+.card-button {
+    position: absolute;
+    z-index: 2;
+    height: 240px;
+    width: 200px;
+    background-color: transparent;
+    outline: none;
+    border: none;
+}
+
+.score-display {
+    color: white;
+    padding-right: 15px;
+}
+
+.won-score {
+    border-color : #e09404;
+    background-color: #ffcc04;
+    
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 2px;
+    border-bottom-width: 10px;
+    width: 190px;
+    height: 40px;
+    float: right;
+    
+}
+
+.won-score p {
+    color: #211d1d;
+    margin-bottom: 60px;
+}
+
+.restart-button {
+    display: block;
+    margin: auto;
+    font-family: standardText;
+    background-color: #403c3c;
+    border-width: 6px;
+    border-bottom-width: 30px;
+    border-radius: 10px;
+    width: 250px;
+    height: 150px;
+    border-color: #211d1d;
+    outline: none;
+    font-size: 50px;
+    color: white;
+}
